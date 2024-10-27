@@ -1,7 +1,7 @@
-# Patchstack Academy
+# Psych Academy
 
 ## What is it
-**Patchstack Academy** is a community-built website created by people fascinated with web security.
+**Psych Academy** is a community-built website created by people fascinated with psychology - credits to patchstack!
 
 [**Join our Community**](https://discord.com/invite/patchstack-alliance-1024691600619745334) to meet us better.
 
@@ -14,7 +14,7 @@
 3. Run `npm install` and `npm start`
 
 ## Project structure
-**Patchstack Academy** is built on top of [**Astro Starlight**](https://astro.build/).
+**Psych Academy** is built on top of [**Astro Starlight**](https://astro.build/).
 ```
 .
 ├── public/
