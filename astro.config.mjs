@@ -22,7 +22,7 @@ export default defineConfig({
 
   },
   integrations: [starlight({
-    title: 'Patchstack Academy',
+    title: 'Psych Academy',
     favicon: '/images/psfavicon.svg',
     customCss: ['./src/styles/custom.css'],
     editLink: {
@@ -33,10 +33,8 @@ export default defineConfig({
       replacesTitle: true
     },
     social: {
-      github: 'https://github.com/patchstack/academy',
-      discord: 'https://discord.gg/rkE8yxtNmS',
-      'x.com': 'https://twitter.com/patchstackapp',
-      linkedin: 'https://www.linkedin.com/company/patchstack'
+      github: 'https://github.com/alexisvalentino/psych.git',
+      linkedin: 'https://www.linkedin.com/in/alexisvalentino/'
     },
     components: {
       ThemeProvider: './src/components/ThemeProvider.astro',
@@ -48,37 +46,33 @@ export default defineConfig({
       PageFrame: './src/components/PageFrame.astro',
     },
     sidebar: [{
-      label: '👋 Welcome',
+      label: '👋 Home',
       collapsed: true,
       autogenerate: {
         directory: 'welcome',
         collapsed: true
       }
     }, {
-      label: '📚 General',
+      label: '📚 Resources',
       collapsed: true,
       autogenerate: {
         directory: 'general',
         collapsed: true
       }
     }, {
-      label: '🌐 WordPress',
+      label: '🌐 Quizzes',
       collapsed: true,
       autogenerate: {
         directory: 'wordpress',
         collapsed: true
       }
     }, {
-      label: '📝 To Do',
+      label: '📝 Announcements',
       collapsed: true,
       autogenerate: {
         directory: 'to-do',
         collapsed: true
       },
-      
-    }, {
-      label: '⭐ Patchstack',
-      link: "https://patchstack.com",
     }]
   }), icon(), sitemap()]
 });
