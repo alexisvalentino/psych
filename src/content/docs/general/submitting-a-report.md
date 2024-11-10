@@ -13,7 +13,7 @@ Welcome to the **Psychology Books** Library, where you'll find a curated collect
 
 Imagine your thoughts as physical entities, constantly swirling in your mind. How does the brain shift from one thought to the next so seamlessly? Despite being constantly active—perceiving, processing, planning, and remembering—you don’t consciously notice most of this brain activity. This is a core aspect of **cognition**, which includes thinking, perception, knowledge, problem-solving, judgment, language, and memory. Cognitive scientists aim to understand how we organize and use our conscious thoughts while remaining unaware of the unconscious processes that support them. (for example, Kahneman, 2011).
 
-![Vulnerability class](@images/submitting-report/cognitivepsych.PNG)
+![cognitive psych](@images/submitting-report/cognitivepsych.PNG)
 
 ### Abnormal Psychology
 
@@ -21,7 +21,7 @@ Imagine your thoughts as physical entities, constantly swirling in your mind. Ho
 
 Book description must be here. Book description must be here. Book description must be here. Book description must be here. Book description must be here. Book description must be here. Book description must be here. Book description must be here. Book description must be here.
 
-![Vulnerability details](@images/submitting-report/abnormal-psychology.PNG)
+![abnormal psychology](@images/submitting-report/abnormal-psychology.PNG)
 
 ## Suggesting a book
 

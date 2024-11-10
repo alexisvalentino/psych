@@ -18,7 +18,7 @@ export default defineConfig({
 	},
   banner: {
     enabled: true,
-    content: 'Biggest Bounty Update Ever - <a href="https://patchstack.com/articles/biggest-wordpress-bug-bounty-program-upgrade-is-here/" target="about:blank">learn more</a>',
+    content: 'Thank you for visiting us! - <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0" target="about:blank">learn more</a>',
 
   },
   integrations: [starlight({
