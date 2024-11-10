@@ -4,4 +4,4 @@ sidebar:
   order: 4
 ---
 
-This looks empty, suggest an activity by reaching out to psychcess@gmail.com
+This place looks empty, suggest an activity or event by reaching out to our [Facebook page](https://www.facebook.com/profile.php?id=61568430635054).
