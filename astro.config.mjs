@@ -29,7 +29,7 @@ export default defineConfig({
       baseUrl: 'https://github.com/patchstack/academy/edit/main/'
     },
     logo: {
-      src: './src/assets/logo.svg',
+      src: './src/assets/logo.png',
       replacesTitle: true
     },
     social: {
