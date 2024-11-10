@@ -1,5 +1,5 @@
 ---
-title: Books
+title: Courses
 sidebar:
   order: 2
 contributors:
